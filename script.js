@@ -1,4 +1,4 @@
-const API_KEY = "YOUR_API_KEY_HERE";
+const API_KEY = "AIzaSyAfSKpvxCzadP_-yxtsrMzt92ZGjV3a8eM";
 
 async function fileToBase64(file) {
   return new Promise((resolve, reject) => {
